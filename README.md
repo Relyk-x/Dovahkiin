@@ -1,2 +1,2 @@
-# Dovahkin
+# Dovahkiin
 Discord bot.
